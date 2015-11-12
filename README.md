@@ -1,0 +1,2 @@
+# Mailshotgun
+Mail automation 
