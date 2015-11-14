@@ -5,8 +5,8 @@ from passcode import pwd
 import csv
 #message= "Hello this is written by code, happy that you got the message please whatsapp me"
 
-#Mapping = {'aditya':'adityafool@gmail.com','manoj':'manoj.p.gudi@gmail.com','pinjali':'pranju20@gmail.com','batlu':'saurabh1292@gmail.com','adityaoff':'aditya.patil@housing.com'}
 
+#Mapping = {'aditya':'adityafool@gmail.com','manoj':'manoj.p.gudi@gmail.com','adityaoff':'aditya.patil@housing.com'}
 
 """ Defining Dictionary """
 sheet = open('bande.csv','r')
